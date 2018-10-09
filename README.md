@@ -2,7 +2,7 @@
 to use gamepads in Python with pygame and pygame zero, or in Scratch
 
 
-# related information
+# references
 Remote Sensors Protocol (Scratch 1.4)
 https://en.scratch-wiki.info/wiki/Remote_Sensors_Protocol
 
