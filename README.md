@@ -4,7 +4,7 @@ to use gamepads in Python with pygame and pygame zero, or in Scratch
 ## How to use
 
 1. Connect your gamepad to your computer via USB. Gamepad for PS: Play Station or SNES, or SNES: Super Nintendo Entertainment System can be used.
-2. Launch Scratch 1.4, then open gamepad_hat_axis.sb to make it server for Remote Sensors Protocol.
+2. Launch Scratch 1.4, then open gamepad.sb to make it server for Remote Sensors Protocol.
 3. Launch Python3 code 'test-scratch.py' by  ```python3 test-scratch.py``` in the LXTerminal window.
 4. New window pops up for the status of your gamepad connected to your computer via USB.
 5. You can use youe gamepad to control the Cat, Bat, and Butterfly.
