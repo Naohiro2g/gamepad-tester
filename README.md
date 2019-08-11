@@ -3,7 +3,7 @@ to use gamepads in Python with pygame and pygame zero, or in Scratch
 
 ## How to use with Scratch
 
-1. Connect your gamepad to your computer via USB. Gamepad for PS: Play Station or SNES, or SNES: Super Nintendo Entertainment System can be used.
+1. Connect your gamepad or two to your computer via USB. Gamepad for PS: Play Station or SNES, or SNES: Super Nintendo Entertainment System can be used.
 2. Launch Scratch 1.4, then open gamepad.sb to make it server for Remote Sensors Protocol.
 3. Launch Python3 code 'test-scratch.py' by  ```python3 test-scratch.py``` in the LXTerminal window.
 4. New window pops up for the status of your gamepad connected to your computer via USB.
@@ -12,14 +12,14 @@ to use gamepads in Python with pygame and pygame zero, or in Scratch
 
 ## How to use without Scratch
 
-1. Connect your gamepad to your computer via USB.
+1. Connect your gamepads to your computer via USB.
 2. Launch Python3 code 'test.py' by  ```python3 test.py``` in the LXTerminal window.
-3. New window pops up for the status of your gamepad connected to your computer via USB.  [<img src="images/Gamepad-Status.png" alt="Gamepad-Status" title="Gamepad-Status.png" height="200" align="center">](images/Gamepad-Status.png)
+3. New window pops up for the status of your gamepads connected to your computer via USB.  [<img src="images/Gamepad-Status.png" alt="Gamepad-Status" title="Gamepad-Status.png" height="200" align="center">](images/Gamepad-Status.png)
 
 
 
-
-Python3 compatible Scratch-RSP test code is [here](https://github.com/Naohiro2g/rsp-test).
+You can use Scratch-RSP listener to know how gamepad-tester talks to Scratch.
+  Scratch-RSP test code is [here](https://github.com/Naohiro2g/rsp-test).
 
 # Reference to Scratch Remote Sensors Protovol
 
